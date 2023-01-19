@@ -4,3 +4,5 @@ laravel/.idea
 .idea
 
 node/node_modules
+
+mysql
